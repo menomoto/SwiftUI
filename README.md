@@ -9,6 +9,6 @@ SwiftUI Tutorials
 : 一覧画面に絞り込み追加
 * [Drawing Paths and Shapes (25min)](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)
 * [Animating Views and Transitions (20min)](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
-* [Composing Complex Interfaces (20min)](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
+* [Composing Complex Interfaces (20min)](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces) : ホーム画面
 * [Working with UI Controls (25min)](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)
 * [Interfacing with UIKit (25min)](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
